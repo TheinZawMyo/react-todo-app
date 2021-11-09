@@ -1,0 +1,35 @@
+.list_item {
+    background-color: rgb(182, 182, 7);
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.input {
+    padding: .5rem;
+    border-radius:  10px;
+    width: 300px;
+    margin-right: 10px;
+}
+
+.editInput {
+    background: transparent;
+    border: none;
+}
+
+.editInput:focus {
+    outline: none;
+}
+
+button {
+    padding: .5rem;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(182, 182, 7);
+}
+
+span {
+    float: right;
+    cursor: pointer;
+    margin-right: 5px;
+}
